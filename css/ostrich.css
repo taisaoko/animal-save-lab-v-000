@@ -9,4 +9,12 @@ html {
 }
 
 /* Write your solution here */
+@media only screen {
+  
+  #ostrich {
+    top: -50px;
+  }
+}
+
+
 
